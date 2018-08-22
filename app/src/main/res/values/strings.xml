@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="one">Button1</string>
+    <string name="two">Button2</string>
+    <string name="three">Button3</string>
+    <string name="four">Button4</string>
+    <string name="five">Button5</string>
+    <string name="six">Button6</string>
+    <string name="seven">Button7</string>
+    <string name="eight">Button8</string>
+    <string name="nine">Button9</string>
+    <string name="ten">Button10</string>
+    <string name="eleven">Button11</string>
+    <string name="twelve">Button12</string>
+</resources>
